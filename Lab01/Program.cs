@@ -37,3 +37,4 @@ Console.ResetColor();
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("\nПрограмма выполнена успешно! ");
 Console.ResetColor();
+Console.ReadKey();
